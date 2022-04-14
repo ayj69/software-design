@@ -1,0 +1,4 @@
+KL,2022-05-08 11:30,penang,6,RIDE1 1984,13,available
+Sungai Long,2022-05-09 15:30,penang,6,RIDE2 1984,25,available
+Singapor,2022-05-10 05:30,penang,6,RIDE3 1984,67,available
+Johor,2022-05-11 18:30,penang,6,RIDE1 1984,37,available
